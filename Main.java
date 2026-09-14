@@ -10,13 +10,13 @@ public class Main {
         System.out.println("Name: " + name);
         System.out.println("Role: " + role);
 
-        // Added by Aditya
-        String project = "Git Collaboration";
+        // Added by Aditya & anjali 
+        String project = "Git Collaboration-Main";
         System.out.println("Project: " + project);
         System.out.println("Happy collaborating with the team!");
 
-        // Added by Nitin
-        String project = "Git Collaboration";
+        // Added by Nitin & anjali 
+        String project = "Git Collaboration-Main";
         System.out.println("Project: " + project);
         System.out.println("Happy collaborating with the team!");
     }
