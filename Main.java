@@ -11,7 +11,7 @@ public class Main {
         System.out.println("Role: " + role);
 
         // Added by Aditya
-        String project = "Git Collaboration";
+        String project = "Git Collaboration-Anjali";
         System.out.println("Project: " + project);
         System.out.println("Happy collaborating with the team!");
     }
