@@ -19,5 +19,10 @@ public class Main {
         String project = "Git Collaboration-Main";
         System.out.println("Project: " + project);
         System.out.println("Happy collaborating with the team!");
+		
+		 // Added by Nitin 
+        String project = "Git Collaboration-Main";
+        System.out.println("Project: " + project);
+        System.out.println("testing git from folder directally!");
     }
 }
